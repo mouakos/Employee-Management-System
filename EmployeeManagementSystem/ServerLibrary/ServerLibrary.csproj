@@ -25,6 +25,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.1.2" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.2" />
+    <PackageReference Include="Validation" Version="2.5.51" />
   </ItemGroup>
 
   <ItemGroup>

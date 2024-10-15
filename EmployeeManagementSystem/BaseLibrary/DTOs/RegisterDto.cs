@@ -2,7 +2,7 @@
 
 namespace BaseLibrary.DTOs;
 
-public class Register : AccountBase
+public class RegisterDto : AccountBaseDto
 {
     [Required]
     [MinLength(5)]
